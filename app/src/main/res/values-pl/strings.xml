@@ -1,0 +1,54 @@
+<resources>
+    <string name="nav_roulette">Losuj Album</string>
+    <string name="nav_saved">Zapisane</string>
+    <string name="nav_settings">Ustawienia</string>
+    <string name="roulette_prompt">Wylosuj album i odkryj coś nowego.</string>
+    <string name="draw_album">Losuj album</string>
+    <string name="draw_again">Losuj kolejny album</string>
+    <string name="retry">Spróbuj ponownie</string>
+    <string name="drawing">Losowanie albumu…</string>
+    <string name="saving">Zapisywanie…</string>
+    <string name="saved_as">Zapisano: %1$s</string>
+    <string name="artwork_description">Okładka albumu %1$s</string>
+    <string name="no_artwork">Brak okładki</string>
+    <string name="delete_album">Usuń album %1$s</string>
+    <string name="delete_album_title">Usuń album</string>
+    <string name="delete_album_message">Czy chcesz usunąć %1$s?</string>
+    <string name="delete">Usuń</string>
+    <string name="cancel">Anuluj</string>
+    <string name="status_to_listen">Do odsłuchania</string>
+    <string name="status_known">Już znam</string>
+    <string name="status_not_interested">Nie interesuje</string>
+    <string name="status_filter">Status: %1$s</string>
+    <string name="empty_saved">Brak albumów w tej kategorii.</string>
+    <string name="duration_minutes">%1$d min</string>
+    <plurals name="track_count">
+        <item quantity="one">%d utwór</item>
+        <item quantity="few">%d utwory</item>
+        <item quantity="many">%d utworów</item>
+        <item quantity="other">%d utworu</item>
+    </plurals>
+    <string name="settings_genres">Gatunki</string>
+    <string name="select_all">Zaznacz wszystkie</string>
+    <string name="select_none">Odznacz wszystkie</string>
+    <string name="settings_theme">Wygląd</string>
+    <string name="theme_light">Jasny</string>
+    <string name="theme_dark">Ciemny</string>
+    <string name="theme_system">Systemowy</string>
+    <string name="settings_language">Język</string>
+    <string name="language_system">Systemowy</string>
+    <string name="language_polish">Polski</string>
+    <string name="language_english">Angielski</string>
+    <string name="error_empty_curated">Lista albumów jest pusta.</string>
+    <string name="error_no_genres">Wybierz przynajmniej jeden gatunek w Ustawieniach.</string>
+    <string name="error_no_new_albums">Brak nowych albumów dla wybranych gatunków. Zmień gatunki w Ustawieniach lub usuń album z Zapisanych.</string>
+    <string name="error_no_match">Nie udało się dopasować albumu. Spróbuj ponownie.</string>
+    <string name="error_network">Nie udało się połączyć. Sprawdź internet i spróbuj ponownie.</string>
+    <string name="error_server">Serwer iTunes zwrócił błąd. Spróbuj ponownie.</string>
+    <string name="error_draw">Nie udało się pobrać albumu. Spróbuj ponownie.</string>
+    <string name="error_save">Nie udało się zapisać albumu. Wybierz status, aby spróbować ponownie.</string>
+    <string name="error_read_saved">Nie udało się odczytać zapisanych albumów. Spróbuj ponownie.</string>
+    <string name="error_delete">Nie udało się usunąć albumu. Spróbuj ponownie.</string>
+</resources>
+
+

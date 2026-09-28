@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name" translatable="false">Album Roulette</string>
+    <string name="nav_roulette">Draw Album</string>
+    <string name="nav_saved">Saved</string>
+    <string name="nav_settings">Settings</string>
+    <string name="roulette_prompt">Draw an album and discover something new.</string>
+    <string name="draw_album">Draw album</string>
+    <string name="draw_again">Draw another album</string>
+    <string name="retry">Try again</string>
+    <string name="drawing">Drawing an album…</string>
+    <string name="saving">Saving…</string>
+    <string name="saved_as">Saved: %1$s</string>
+    <string name="artwork_description">Album artwork: %1$s</string>
+    <string name="no_artwork">No artwork</string>
+    <string name="delete_album">Delete album %1$s</string>
+    <string name="delete_album_title">Delete album</string>
+    <string name="delete_album_message">Do you want to delete %1$s?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="status_to_listen">To listen</string>
+    <string name="status_known">Already known</string>
+    <string name="status_not_interested">Not interested</string>
+    <string name="status_filter">Status: %1$s</string>
+    <string name="empty_saved">No albums in this category.</string>
+    <string name="duration_minutes">%1$d min</string>
+    <plurals name="track_count">
+        <item quantity="one">%d track</item>
+        <item quantity="other">%d tracks</item>
+    </plurals>
+    <string name="settings_genres">Genres</string>
+    <string name="select_all">Select all</string>
+    <string name="select_none">Clear all</string>
+    <string name="settings_theme">Appearance</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="theme_system">System</string>
+    <string name="settings_language">Language</string>
+    <string name="language_system">System</string>
+    <string name="language_polish">Polish</string>
+    <string name="language_english">English</string>
+    <string name="error_empty_curated">The album list is empty.</string>
+    <string name="error_no_genres">Select at least one genre in Settings.</string>
+    <string name="error_no_new_albums">No new albums for the selected genres. Change genres in Settings or remove an album from Saved.</string>
+    <string name="error_no_match">Could not find a matching album. Try again.</string>
+    <string name="error_network">Could not connect. Check your internet connection and try again.</string>
+    <string name="error_server">iTunes returned an error. Try again.</string>
+    <string name="error_draw">Could not download the album. Try again.</string>
+    <string name="error_save">Could not save the album. Select a status to try again.</string>
+    <string name="error_read_saved">Could not read saved albums. Try again.</string>
+    <string name="error_delete">Could not delete the album. Try again.</string>
+</resources>
+
+
